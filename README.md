@@ -1,2 +1,2 @@
-# GfG-InterviewPreparation
-This is the complete GfG-InterviewPreparation Repository 
+# GfG-DataStructure-And-Algorithm
+This is the complete GfG-DataStructure-And-Algorithm
